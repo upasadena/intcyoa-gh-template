@@ -49,7 +49,7 @@ Press the thumbnail below to open the video. You may need to open in a new tab
 so as to not replace this window.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LCvOVB8wZQE" target="_blank">
- <img src="http://img.youtube.com/vi/LCvOVB8wZQE/maxresdefault.jpg" alt="Watch the video" width="720" height="460" border="10" />
+ <img src="http://img.youtube.com/vi/LCvOVB8wZQE/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
 </a>
 
 ## Other
