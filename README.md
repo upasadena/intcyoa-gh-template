@@ -73,8 +73,9 @@ The customizations are:
 1. Make the Point Bar icons white for dark Interactive CYOAs
 
 In order to search for where you can make these customizations, simply Ctrl+F
-(find) for `CUSTOMIZATION`. `CUSTOMIZATION` is used at the start of comments,
-where it explains which customizations can be made.
+(find) for `CUSTOMIZATION` in the `css/chunk-vendors.58637379.css` file.
+`CUSTOMIZATION` is used at the start of comments, where it explains which
+customizations can be made.
 
 ### Manually do this
 If you want to manually do this, check out the **GitHub** section of the ICCT:
