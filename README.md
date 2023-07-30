@@ -10,6 +10,9 @@ Features:
     * The only customization so far is the ability to make the Point Bar icons
       white for dark Interactive CYOAs
 
+View the text instructions [below](#instructions) or
+[watch a video tutorial](#video-tutorial) below.
+
 ## Instructions
 
 ### Sign up
@@ -40,6 +43,10 @@ That should be all! After a short time (usually ~12s) it should now
 automatically begin hosting at `https://YOURUSERNAME.github.io/REPONAME`.
 
 Feel free to remove this file and `LICENSE` to clean up the code even more.
+
+### Video tutorial
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCvOVB8wZQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Other
 
