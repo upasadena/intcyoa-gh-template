@@ -24,15 +24,15 @@ Features:
    access your CYOA
 4. Press **Create repository**
 
-### Uploading your files
-
-1. Press the **Add file** dropdown → **Upload files**
-2. Upload your `project.json` (and `images/` if appropriate)
-
 ### Enable GitHub Pages
 
 1. Go into **Settings** → **Pages** and where it says **Build and deployment**
    look for the **Source** dropdown menu. Select **GitHub Actions**
+
+### Uploading your files
+
+1. Press the **Add file** dropdown → **Upload files**
+2. Upload your `project.json` (and `images/` if appropriate)
 
 ---
 
