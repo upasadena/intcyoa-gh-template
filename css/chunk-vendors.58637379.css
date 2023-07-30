@@ -25632,7 +25632,7 @@ Point Bar is black.
     color: rgba(0, 0, 0, .6) !important;
 
     /* Dark mode */
-    /* color: rgba(255, 255, 255, 1); */
+    /* color: rgba(255, 255, 255, 1) !important; */
 }
 
 .v-item-group.v-bottom-navigation .v-btn.v-btn--active {
