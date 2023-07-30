@@ -4,7 +4,7 @@ A template to easily host Interactive CYOAs on GitHub.
 Features:
 
 * Hyperlinks enabled
-* IntCyoaEnhancer's Progress Download Indicator included
+* IntCyoaEnhancer's Download Progress Indicator included
 * Optional code to make your backgrounds static
 * Automatic GitHub workflow to republish your site on any change
 * Modified CSS file with comments where customizations can be made
