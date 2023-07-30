@@ -51,7 +51,7 @@ Feel free to remove this file and `LICENSE` to clean up the code even more.
 <!-- [![Watch the video](https://img.youtube.com/vi/LCvOVB8wZQE/default.jpg)](https://youtu.be/LCvOVB8wZQE) -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LCvOVB8wZQE" target="_blank">
- <img src="http://img.youtube.com/vi/LCvOVB8wZQE/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/LCvOVB8wZQE/mqdefault.jpg" alt="Watch the video" width="720" height="460" border="10" />
 </a>
 
 ## Other
