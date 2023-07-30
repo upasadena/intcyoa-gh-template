@@ -46,7 +46,9 @@ Feel free to remove this file and `LICENSE` to clean up the code even more.
 
 ### Video tutorial
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCvOVB8wZQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCvOVB8wZQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+[![Watch the video](https://img.youtube.com/vi/LCvOVB8wZQE/default.jpg)](https://youtu.be/LCvOVB8wZQE)
 
 ## Other
 
