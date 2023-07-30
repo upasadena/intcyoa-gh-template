@@ -5,13 +5,14 @@ Features:
 
 * Hyperlinks enabled
 * IntCyoaEnhancer's Progress Download Indicator included
+* Optional code to make your backgrounds static
 * Automatic GitHub workflow to republish your site on any change
 * Modified CSS file with comments where customizations can be made
     * The only customization so far is the ability to make the Point Bar icons
       white for dark Interactive CYOAs
 
 View the text instructions [below](#instructions) or
-[watch the video tutorial](#video-tutorial) below.
+[watch the video tutorial](https://www.youtube.com/watch?v=LCvOVB8wZQE).
 
 ## Instructions
 
@@ -52,7 +53,7 @@ so as to not replace this window.
  <img src="http://img.youtube.com/vi/LCvOVB8wZQE/maxresdefault.jpg" alt="Watch the video" width="720" height="405" border="10" />
 </a>
 
-## Other
+## More stuff
 
 ### Add the URL to the repository for ease of access
 1. Press the settings gear to the right of the **About** section title and
@@ -65,6 +66,10 @@ Your URL should now display!
 If you want to republish without adding or modifying files, simply go into the
 **Actions** tab → select **Deploy static content to Pages** on the left side →
 **Run workflow** → and **Run workflow** again.
+
+### Make your background static
+There is a style in `index.html` that you can comment out to make your
+backgrounds static.
 
 ### Customize CSS styles
 There is currently 1 commented CSS customization.
