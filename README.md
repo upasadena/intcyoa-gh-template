@@ -48,7 +48,11 @@ Feel free to remove this file and `LICENSE` to clean up the code even more.
 
 <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCvOVB8wZQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
-[![Watch the video](https://img.youtube.com/vi/LCvOVB8wZQE/default.jpg)](https://youtu.be/LCvOVB8wZQE)
+<!-- [![Watch the video](https://img.youtube.com/vi/LCvOVB8wZQE/default.jpg)](https://youtu.be/LCvOVB8wZQE) -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LCvOVB8wZQE" target="_blank">
+ <img src="http://img.youtube.com/vi/LCvOVB8wZQE/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 ## Other
 
