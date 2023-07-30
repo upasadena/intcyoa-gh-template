@@ -7,19 +7,21 @@ Features:
 * IntCyoaEnhancer's Progress Download Indicator included
 * Automatic GitHub workflow to republish your site on any change
 * Modified CSS file with comments where customizations can be made
-    * The only customization so far is the ability to make the Point Bar icons white for dark Interactive CYOAs
+    * The only customization so far is the ability to make the Point Bar icons
+      white for dark Interactive CYOAs
 
 ## Instructions
 
 ### Sign up
 
-1. First, [create an account](https://github.com/signup)
+1. First, [create an account](https://github.com/signup) on GitHub
 
 ### Create the repository
 
 1. Press the bright green **Use this template** button at the top of this repo
 2. Press **Create a new repository**
-3. Give your repository a name, this will be the folder that will be used to access your CYOA
+3. Give your repository a name, this will be the folder that will be used to
+   access your CYOA
 4. Press **Create repository**
 
 ### Uploading your files
@@ -29,24 +31,29 @@ Features:
 
 ### Enable GitHub Pages
 
-1. Go into **Settings** → **Pages** and where it says **Build and deployment** look for the **Source** dropdown menu. Select **GitHub Actions**
+1. Go into **Settings** → **Pages** and where it says **Build and deployment**
+   look for the **Source** dropdown menu. Select **GitHub Actions**
 
 ---
 
-That should be all! After a short time (usually ~12s) it should now automatically begin hosting at `https://YOURUSERNAME.github.io/REPONAME`.
+That should be all! After a short time (usually ~12s) it should now
+automatically begin hosting at `https://YOURUSERNAME.github.io/REPONAME`.
 
 Feel free to remove this file and `LICENSE` to clean up the code even more.
 
 ## Other
 
 ### Add the URL to the repository for ease of access
-1. Press the settings gear to the right of the **About** section title and below the **Star** button.
+1. Press the settings gear to the right of the **About** section title and
+   below the **Star** button.
 2. Tick **Use your GitHub Pages website**
 
 Your URL should now display!
 
 ### Manually republish without pushing
-If you want to republish without adding or modifying files, simply go into the **Actions** tab → select **Deploy static content to Pages** on the left side → **Run workflow** → and **Run workflow** again.
+If you want to republish without adding or modifying files, simply go into the
+**Actions** tab → select **Deploy static content to Pages** on the left side →
+**Run workflow** → and **Run workflow** again.
 
 ### Customize CSS styles
 There is currently 1 commented CSS customization.
@@ -54,7 +61,12 @@ There is currently 1 commented CSS customization.
 The customizations are:
 1. Make the Point Bar icons white for dark Interactive CYOAs
 
-In order to search for where you can make these customizations, simply Ctrl+F (find) for `CUSTOMIZATION`. `CUSTOMIZATION` is used at the start of comments, where it explains which customizations can be made.
+In order to search for where you can make these customizations, simply Ctrl+F
+(find) for `CUSTOMIZATION`. `CUSTOMIZATION` is used at the start of comments,
+where it explains which customizations can be made.
 
 ### Manually do this
-If you want to manually do this, check out the **GitHub** section of the ICCT: [https://icctutorial.pages.dev/publishing/github/](https://icctutorial.pages.dev/publishing/github/)
+If you want to manually do this, check out the **GitHub** section of the ICCT:
+[https://icctutorial.pages.dev/publishing/github/][icct-gh]
+
+[icct-gh]: https://icctutorial.pages.dev/publishing/github/
