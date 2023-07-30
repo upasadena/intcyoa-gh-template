@@ -11,7 +11,7 @@ Features:
       white for dark Interactive CYOAs
 
 View the text instructions [below](#instructions) or
-[watch a video tutorial](#video-tutorial) below.
+[watch the video tutorial](#video-tutorial) below.
 
 ## Instructions
 
@@ -45,10 +45,8 @@ automatically begin hosting at `https://YOURUSERNAME.github.io/REPONAME`.
 Feel free to remove this file and `LICENSE` to clean up the code even more.
 
 ### Video tutorial
-
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCvOVB8wZQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
-<!-- [![Watch the video](https://img.youtube.com/vi/LCvOVB8wZQE/default.jpg)](https://youtu.be/LCvOVB8wZQE) -->
+Press the thumbnail below to open the video. You may need to open in a new tab
+so as to not replace this window.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LCvOVB8wZQE" target="_blank">
  <img src="http://img.youtube.com/vi/LCvOVB8wZQE/maxresdefault.jpg" alt="Watch the video" width="720" height="460" border="10" />
