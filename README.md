@@ -86,3 +86,8 @@ If you want to manually do this, check out the **GitHub** section of the ICCT:
 [https://icctutorial.pages.dev/publishing/github/][icct-gh]
 
 [icct-gh]: https://icctutorial.pages.dev/publishing/github/
+
+## Acknowledgements
+
+* Thanks to `u/LOLLOL12344` for the simpler CSS code regarding Point Bar icon
+  colouring
