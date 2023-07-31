@@ -5,11 +5,10 @@ Features:
 
 * Hyperlinks enabled
 * IntCyoaEnhancer's Download Progress Indicator included
-* Optional code to make your backgrounds static
+* Optional CSS code in the `index.html` to:
+    * Make your backgrounds static
+    * Change the colour of your Point Bar icons
 * Automatic GitHub workflow to republish your site on any change
-* Modified CSS file with comments where customizations can be made
-    * The only customization so far is the ability to make the Point Bar icons
-      white for dark Interactive CYOAs
 
 View the text instructions [below](#instructions) or
 [watch the video tutorial](https://www.youtube.com/watch?v=LCvOVB8wZQE).
