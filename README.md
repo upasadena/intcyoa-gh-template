@@ -67,20 +67,9 @@ If you want to republish without adding or modifying files, simply go into the
 **Actions** tab → select **Deploy static content to Pages** on the left side →
 **Run workflow** → and **Run workflow** again.
 
-### Make your background static
-There is a style in `index.html` that you can comment out to make your
-backgrounds static.
-
-### Customize CSS styles
-There is currently 1 commented CSS customization.
-
-The customizations are:
-1. Make the Point Bar icons white for dark Interactive CYOAs
-
-In order to search for where you can make these customizations, simply Ctrl+F
-(find) for `CUSTOMIZATION` in the `css/chunk-vendors.58637379.css` file.
-`CUSTOMIZATION` is used at the start of comments, where it explains which
-customizations can be made.
+### Other styles
+To do the CSS stuff mentioned in the Features above, edit your `index.html` and
+find the `<style>` section. There will be comments that describe each style.
 
 ### Manually do this
 If you want to manually do this, check out the **GitHub** section of the ICCT:
