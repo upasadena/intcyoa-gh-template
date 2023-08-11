@@ -9,6 +9,8 @@ Features:
     * Make your backgrounds static
     * Change the colour of your Point Bar icons
     * Override the background image in the `project.json`
+* Dynamic Background support
+   * To learn more, see [here][dynbg]
 * Automatic GitHub workflow to republish your site on any change
 
 View the text instructions [below](#instructions) or
@@ -82,3 +84,8 @@ If you want to manually do this, check out the **GitHub** section of the ICCT:
 * Thanks to `u/LOLLOL12344` for the simpler CSS code regarding Point Bar icon
   colouring
 * Thanks to `3deas_27816` on Discord for the background image code
+
+<!-- URLs -->
+[dynbg]: https://icctutorial.pages.dev/appendix/reference/#make-the-background-different-for-each-row
+
+<!-- BUFFER -->
